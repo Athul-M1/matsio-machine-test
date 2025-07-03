@@ -169,7 +169,7 @@ nav {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: linear-gradient(#091520BF), url('/assets/hero.jpg');
+  background-image: linear-gradient(#091520BF), url('./assets/hero.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
