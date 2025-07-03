@@ -296,7 +296,7 @@ nav {
 
 .c-box input[type="checkbox"]:checked {
   background-color: #627089;
-  background-image: url('/assets/check.png');
+  background-image: url('./assets/check.png');
   width: 30px;
   height: 20px;
   appearance: none;
